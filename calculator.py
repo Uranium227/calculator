@@ -9,7 +9,7 @@ import math
 
 while True:
      try:
-          function = int(input(""""
+          function = int(input("""
                            1 +
                            2 -
                            3 *
