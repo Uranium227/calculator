@@ -1,10 +1,3 @@
-"""
-Calculator for python 3
-
-
-"""
-
-
 import math
 
 while True:
@@ -52,5 +45,6 @@ elif(function == 4):
           print(firstNumber/secondNumber)
      else:
           print("No number can be divided by 0")
+
 
 
